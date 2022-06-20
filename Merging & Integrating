@@ -1,1 +1,18 @@
+Jenking is a Continous Integration tool.
+Whenever is is code change in a centralized repository, or for every commit that is done by the devloper in the source code we have to make a new build for the app.
+So to automate the process in this build phase (Fetch/build/test/notify) we use jenkins to automate all these steps whith creating jobs with CI/CD methodology.
+We can set notifications in jenkins by that it will allow devlopers if there is any error in the code during this build phase.
 
+Jenkinsfeatures:
+ OpenSource
+ Plugins to integreate with lots of features
+  Example: 
+           VCS (version control system)
+           Build plugins like java, dotnet, nodejs & many more
+           Cloud plugin
+           Testing plugin
+           
+           
+Jenkins runs on Java enviornment
+prerequisite: JAVA,JRE,JDK
+Runs on Any OS
